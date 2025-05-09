@@ -14,9 +14,9 @@ export default function Home() {
         <FloatingNavbar />
       </div>
       <section className="flex flex-col items-start mt-20 md:mt-32 h-screen text-left px-8">
-        <h1 className="text-xl md:text-6xl font-bold mb-4">Hi, I\'m Vijay Karthick</h1>
+        <h1 className="text-xl md:text-6xl font-bold mb-4">Hi, I am Vijay Karthick</h1>
         <p className="text-m md:text-xl text-gray-600 max-w-xl md:my-4">
-          I\'m a sophomore who loves problems and learning things constantly. I am a Mathphile and I love Linear Algebra, solving probability puzzles.
+          I am a sophomore who loves problems and learning things constantly. I am a Mathphile and I love Linear Algebra, solving probability puzzles.
         </p>
         <p className="text-m md:text-xl text-gray-600 max-w-xl my-2 md:my-4">
           Currently I am attempting to Market make in illiquid cryptocurrencies, contributing to open source and learning ML.
