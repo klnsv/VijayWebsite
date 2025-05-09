@@ -1,6 +1,6 @@
 "use client";
 import { useState, useRef, useEffect } from "react";
-import rough from "roughjs/bundled/rough.esm.js";
+import rough from "roughjs";
 
 function NavLink({ text, href, hovered }) {
   const linkRef = useRef(null);
